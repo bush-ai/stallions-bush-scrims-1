@@ -1,0 +1,134 @@
+{
+  "sourceFile": "10-hp-colossus.png",
+  "gameIndex": 10,
+  "gameType": "hp",
+  "map": "colossus",
+  "totalTime": "9:57",
+  "team1Score": 250,
+  "team2Score": 140,
+  "winner": "team1",
+  "team1": [
+    {
+      "name": "Swooty",
+      "slayerStats": {
+        "kills": 37,
+        "deaths": 30,
+        "assists": 9,
+        "nonTradedKills": 21,
+        "highestStreak": 4,
+        "damage": 3888
+      },
+      "objectiveStats": {
+        "hillTime": "1:04",
+        "averageHillTime": "0:06"
+      }
+    },
+    {
+      "name": "Manny",
+      "slayerStats": {
+        "kills": 18,
+        "deaths": 23,
+        "assists": 17,
+        "nonTradedKills": 11,
+        "highestStreak": 2,
+        "damage": 3082
+      },
+      "objectiveStats": {
+        "hillTime": "1:54",
+        "averageHillTime": "0:10"
+      }
+    },
+    {
+      "name": "SkiL",
+      "slayerStats": {
+        "kills": 37,
+        "deaths": 27,
+        "assists": 10,
+        "nonTradedKills": 25,
+        "highestStreak": 4,
+        "damage": 4314
+      },
+      "objectiveStats": {
+        "hillTime": "1:02",
+        "averageHillTime": "0:06"
+      }
+    },
+    {
+      "name": "Okis",
+      "slayerStats": {
+        "kills": 27,
+        "deaths": 26,
+        "assists": 17,
+        "nonTradedKills": 18,
+        "highestStreak": 4,
+        "damage": 3354
+      },
+      "objectiveStats": {
+        "hillTime": "1:19",
+        "averageHillTime": "0:07"
+      }
+    }
+  ],
+  "team2": [
+    {
+      "name": "Darksived",
+      "slayerStats": {
+        "kills": 28,
+        "deaths": 33,
+        "assists": 13,
+        "nonTradedKills": 18,
+        "highestStreak": 7,
+        "damage": 3283
+      },
+      "objectiveStats": {
+        "hillTime": "0:31",
+        "averageHillTime": "0:03"
+      }
+    },
+    {
+      "name": "Couti",
+      "slayerStats": {
+        "kills": 28,
+        "deaths": 27,
+        "assists": 10,
+        "nonTradedKills": 20,
+        "highestStreak": 6,
+        "damage": 3189
+      },
+      "objectiveStats": {
+        "hillTime": "0:48",
+        "averageHillTime": "0:05"
+      }
+    },
+    {
+      "name": "cWadz",
+      "slayerStats": {
+        "kills": 30,
+        "deaths": 27,
+        "assists": 17,
+        "nonTradedKills": 19,
+        "highestStreak": 4,
+        "damage": 4412
+      },
+      "objectiveStats": {
+        "hillTime": "0:38",
+        "averageHillTime": "0:04"
+      }
+    },
+    {
+      "name": "DTG",
+      "slayerStats": {
+        "kills": 20,
+        "deaths": 33,
+        "assists": 12,
+        "nonTradedKills": 10,
+        "highestStreak": 2,
+        "damage": 2773
+      },
+      "objectiveStats": {
+        "hillTime": "0:56",
+        "averageHillTime": "0:06"
+      }
+    }
+  ]
+}

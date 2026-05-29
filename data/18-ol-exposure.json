@@ -1,0 +1,134 @@
+{
+  "sourceFile": "18-ol-exposure.png",
+  "gameIndex": 18,
+  "gameType": "ol",
+  "map": "exposure",
+  "totalTime": "10:14",
+  "team1Score": 4,
+  "team2Score": 5,
+  "winner": "team2",
+  "team1": [
+    {
+      "name": "Swooty",
+      "slayerStats": {
+        "kills": 24,
+        "deaths": 28,
+        "assists": 11,
+        "nonTradedKills": 16,
+        "highestStreak": 3,
+        "damage": 3079
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 2
+      }
+    },
+    {
+      "name": "Manny",
+      "slayerStats": {
+        "kills": 33,
+        "deaths": 19,
+        "assists": 4,
+        "nonTradedKills": 26,
+        "highestStreak": 5,
+        "damage": 3174
+      },
+      "objectiveStats": {
+        "overloads": 2,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "SkiL",
+      "slayerStats": {
+        "kills": 21,
+        "deaths": 23,
+        "assists": 8,
+        "nonTradedKills": 14,
+        "highestStreak": 4,
+        "damage": 2875
+      },
+      "objectiveStats": {
+        "overloads": 0,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Okis",
+      "slayerStats": {
+        "kills": 25,
+        "deaths": 27,
+        "assists": 12,
+        "nonTradedKills": 15,
+        "highestStreak": 4,
+        "damage": 3521
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 0
+      }
+    }
+  ],
+  "team2": [
+    {
+      "name": "Darksived",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 29,
+        "assists": 8,
+        "nonTradedKills": 15,
+        "highestStreak": 3,
+        "damage": 3022
+      },
+      "objectiveStats": {
+        "overloads": 2,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Couti",
+      "slayerStats": {
+        "kills": 22,
+        "deaths": 22,
+        "assists": 9,
+        "nonTradedKills": 16,
+        "highestStreak": 4,
+        "damage": 2566
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "cWadz",
+      "slayerStats": {
+        "kills": 25,
+        "deaths": 23,
+        "assists": 11,
+        "nonTradedKills": 18,
+        "highestStreak": 3,
+        "damage": 3566
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 1
+      }
+    },
+    {
+      "name": "DTG",
+      "slayerStats": {
+        "kills": 23,
+        "deaths": 29,
+        "assists": 11,
+        "nonTradedKills": 15,
+        "highestStreak": 4,
+        "damage": 2951
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 4
+      }
+    }
+  ]
+}

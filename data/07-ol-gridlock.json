@@ -1,0 +1,134 @@
+{
+  "sourceFile": "07-ol-gridlock.png",
+  "gameIndex": 7,
+  "gameType": "ol",
+  "map": "gridlock",
+  "totalTime": "14:07",
+  "team1Score": "1:04",
+  "team2Score": "2:19",
+  "winner": "team1",
+  "team1": [
+    {
+      "name": "Manny",
+      "slayerStats": {
+        "kills": 23,
+        "deaths": 30,
+        "assists": 13,
+        "nonTradedKills": 19,
+        "highestStreak": 3,
+        "damage": 3316
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Swooty",
+      "slayerStats": {
+        "kills": 38,
+        "deaths": 32,
+        "assists": 15,
+        "nonTradedKills": 24,
+        "highestStreak": 6,
+        "damage": 4989
+      },
+      "objectiveStats": {
+        "overloads": 0,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Okis",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 28,
+        "assists": 12,
+        "nonTradedKills": 21,
+        "highestStreak": 3,
+        "damage": 3888
+      },
+      "objectiveStats": {
+        "overloads": 3,
+        "carrierKills": 2
+      }
+    },
+    {
+      "name": "SkiL",
+      "slayerStats": {
+        "kills": 33,
+        "deaths": 32,
+        "assists": 6,
+        "nonTradedKills": 20,
+        "highestStreak": 4,
+        "damage": 3815
+      },
+      "objectiveStats": {
+        "overloads": 0,
+        "carrierKills": 4
+      }
+    }
+  ],
+  "team2": [
+    {
+      "name": "Tkay",
+      "slayerStats": {
+        "kills": 33,
+        "deaths": 31,
+        "assists": 16,
+        "nonTradedKills": 22,
+        "highestStreak": 3,
+        "damage": 3691
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Hitmxn",
+      "slayerStats": {
+        "kills": 25,
+        "deaths": 29,
+        "assists": 23,
+        "nonTradedKills": 21,
+        "highestStreak": 3,
+        "damage": 3931
+      },
+      "objectiveStats": {
+        "overloads": 1,
+        "carrierKills": 4
+      }
+    },
+    {
+      "name": "Dak",
+      "slayerStats": {
+        "kills": 28,
+        "deaths": 31,
+        "assists": 11,
+        "nonTradedKills": 21,
+        "highestStreak": 5,
+        "damage": 3954
+      },
+      "objectiveStats": {
+        "overloads": 0,
+        "carrierKills": 3
+      }
+    },
+    {
+      "name": "Mince",
+      "slayerStats": {
+        "kills": 36,
+        "deaths": 31,
+        "assists": 12,
+        "nonTradedKills": 24,
+        "highestStreak": 4,
+        "damage": 4276
+      },
+      "objectiveStats": {
+        "overloads": 2,
+        "carrierKills": 8
+      }
+    }
+  ]
+}

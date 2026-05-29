@@ -1,0 +1,134 @@
+{
+  "sourceFile": "02-hp-den.png",
+  "gameIndex": 2,
+  "gameType": "hp",
+  "map": "den",
+  "totalTime": "10:28",
+  "team1Score": 250,
+  "team2Score": 227,
+  "winner": "team1",
+  "team1": [
+    {
+      "name": "Manny",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 28,
+        "assists": 4,
+        "nonTradedKills": 20,
+        "highestStreak": 4,
+        "damage": 3262
+      },
+      "objectiveStats": {
+        "hillTime": "1:06",
+        "averageHillTime": "0:06"
+      }
+    },
+    {
+      "name": "Swooty",
+      "slayerStats": {
+        "kills": 24,
+        "deaths": 27,
+        "assists": 7,
+        "nonTradedKills": 16,
+        "highestStreak": 4,
+        "damage": 3236
+      },
+      "objectiveStats": {
+        "hillTime": "1:18",
+        "averageHillTime": "0:07"
+      }
+    },
+    {
+      "name": "Okis",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 23,
+        "assists": 8,
+        "nonTradedKills": 16,
+        "highestStreak": 5,
+        "damage": 3348
+      },
+      "objectiveStats": {
+        "hillTime": "1:58",
+        "averageHillTime": "0:10"
+      }
+    },
+    {
+      "name": "SkiL",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 24,
+        "assists": 10,
+        "nonTradedKills": 19,
+        "highestStreak": 4,
+        "damage": 2869
+      },
+      "objectiveStats": {
+        "hillTime": "1:07",
+        "averageHillTime": "0:06"
+      }
+    }
+  ],
+  "team2": [
+    {
+      "name": "Tkay",
+      "slayerStats": {
+        "kills": 28,
+        "deaths": 25,
+        "assists": 8,
+        "nonTradedKills": 19,
+        "highestStreak": 9,
+        "damage": 3433
+      },
+      "objectiveStats": {
+        "hillTime": "1:13",
+        "averageHillTime": "0:07"
+      }
+    },
+    {
+      "name": "Hitmxn",
+      "slayerStats": {
+        "kills": 25,
+        "deaths": 24,
+        "assists": 10,
+        "nonTradedKills": 19,
+        "highestStreak": 4,
+        "damage": 3476
+      },
+      "objectiveStats": {
+        "hillTime": "0:58",
+        "averageHillTime": "0:05"
+      }
+    },
+    {
+      "name": "Dak",
+      "slayerStats": {
+        "kills": 26,
+        "deaths": 27,
+        "assists": 6,
+        "nonTradedKills": 18,
+        "highestStreak": 4,
+        "damage": 3641
+      },
+      "objectiveStats": {
+        "hillTime": "1:06",
+        "averageHillTime": "0:06"
+      }
+    },
+    {
+      "name": "Mince",
+      "slayerStats": {
+        "kills": 21,
+        "deaths": 27,
+        "assists": 10,
+        "nonTradedKills": 13,
+        "highestStreak": 3,
+        "damage": 2839
+      },
+      "objectiveStats": {
+        "hillTime": "1:07",
+        "averageHillTime": "0:06"
+      }
+    }
+  ]
+}
